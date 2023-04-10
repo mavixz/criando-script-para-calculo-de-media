@@ -22,4 +22,4 @@ while True:
             elif option == 'N':
                 break
             else:
-                print('Insira apenas S ou N')
+                print('Insira apenas S ou N!!')
