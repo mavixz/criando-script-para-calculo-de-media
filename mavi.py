@@ -19,4 +19,4 @@ else:
     print ("insira um valor valido")
 
 print(f"\nnome: {nome} \nmedia: {media: .2f} \nStatus: {result}")
-#teste
+print("dev")
